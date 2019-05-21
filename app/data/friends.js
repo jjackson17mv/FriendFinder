@@ -1,4 +1,4 @@
-var friends = [
+var friendsArray = [
     {
         friendName: "Pikachu",
         friendimage: "https://www.indiewire.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-12-at-12.05.31-PM.png?w=780",
@@ -22,6 +22,7 @@ var friends = [
             1,
             2,
             3,
+            4,
         ]
     },
     
@@ -35,8 +36,9 @@ var friends = [
            4,
            1,
            2,
+           4,
         ]
     },
 ];
 
-module.exports = friends;
+module.exports = friendsArray;
