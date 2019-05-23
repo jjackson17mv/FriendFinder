@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Pikachu",
-        image: "https://www.indiewire.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-12-at-12.05.31-PM.png?w=780",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQEw21nLmRBfnPCdJjGRiicxWfp0HuWplLOIMOGAQ7Hyp1eVLjg",
         scores: [
             1,
             1,
@@ -14,7 +14,7 @@ var friends = [
     },
     {
         name: "Dead Pool",
-        image: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Ferikkain%2Ffiles%2F2018%2F02%2Fdeadpool-2-teddy-bear.jpg",
+        image: "https://cdn.images.express.co.uk/img/dynamic/36/750x445/962228.jpg",
         scores: [
             2,
             2,
@@ -28,7 +28,7 @@ var friends = [
     
     {
         name: "Gavin Belson",
-        image: "https://i.redd.it/ye63aue3gnt01.jpg",
+        image: "https://pbs.twimg.com/profile_images/994925029006733312/NjC_Xv7B_400x400.jpg",
         scores: [
            1,
            2,
