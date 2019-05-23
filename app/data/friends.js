@@ -1,7 +1,7 @@
-var friendsArray = [
+var friends = [
     {
-        friendName: "Pikachu",
-        friendimage: "https://www.indiewire.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-12-at-12.05.31-PM.png?w=780",
+        name: "Pikachu",
+        image: "https://www.indiewire.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-12-at-12.05.31-PM.png?w=780",
         scores: [
             1,
             1,
@@ -13,8 +13,8 @@ var friendsArray = [
         ]
     },
     {
-        friendName: "Dead Pool",
-        friendimage: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Ferikkain%2Ffiles%2F2018%2F02%2Fdeadpool-2-teddy-bear.jpg",
+        name: "Dead Pool",
+        image: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Ferikkain%2Ffiles%2F2018%2F02%2Fdeadpool-2-teddy-bear.jpg",
         scores: [
             2,
             2,
@@ -27,8 +27,8 @@ var friendsArray = [
     },
     
     {
-        friendName: "Gavin Belson",
-        friendimage: "https://i.redd.it/ye63aue3gnt01.jpg",
+        name: "Gavin Belson",
+        image: "https://i.redd.it/ye63aue3gnt01.jpg",
         scores: [
            1,
            2,
@@ -41,4 +41,4 @@ var friendsArray = [
     },
 ];
 
-module.exports = friendsArray;
+module.exports = friends;
